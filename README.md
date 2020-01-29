@@ -1,6 +1,7 @@
 # group-page-challenge
 # group-page-challenge
-## AngularJs
+## Angular WorkShop
+- Bhanuprakash Thota
 - Damera VenkataYashwanth
 - Puneeth Annam
 
