@@ -4,8 +4,10 @@
 - Damera VenkataYashwanth
 - Puneeth Annam
 
-[Bhanuprakash Github](https://github.com/BhanuprakashThota)
-[Puneeth Github](https://github.com/Puneeth159)
-[Yashwanth Damera Github](https://github.com/Yashwanth-Damera)
+[Bhanuprakash Github Link](https://github.com/BhanuprakashThota)
+
+[Puneeth Github Link](https://github.com/Puneeth159)
+
+[Yashwanth Damera Github Link](https://github.com/Yashwanth-Damera)
 
 Jan29th-assignment
