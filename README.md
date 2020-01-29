@@ -6,5 +6,6 @@
 
 [Bhanuprakash Github](https://github.com/BhanuprakashThota)
 [Puneeth Github](https://github.com/Puneeth159)
+[Yashwanth Damera Github](https://github.com/Yashwanth-Damera)
 
 Jan29th-assignment
